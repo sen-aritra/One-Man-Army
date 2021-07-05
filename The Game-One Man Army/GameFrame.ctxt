@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GameFrame()
+comment1.params=ce
+comment1.target=void\ componentMoved(java.awt.event.ComponentEvent)
+comment2.params=we
+comment2.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment3.params=we
+comment3.target=void\ windowIconified(java.awt.event.WindowEvent)
+comment4.params=
+comment4.target=void\ main()
+comment5.params=
+comment5.target=void\ run()
+numComments=6

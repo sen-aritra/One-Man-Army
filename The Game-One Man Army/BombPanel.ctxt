@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=p\ a
+comment0.target=BombPanel(int,\ int)
+comment1.params=
+comment1.target=void\ run()
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+numComments=3
