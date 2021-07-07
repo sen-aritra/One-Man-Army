@@ -2,4 +2,4 @@ PROJECT TITLE: The Game- ONE MAN ARMY.
 PURPOSE OF PROJECT: ICSE Live Project.
 VERSION: ONEMANARMY.ASJB.Basic.Version.1.1.1
 HOW TO START THIS PROJECT: Start Welcome with Password ENPJE-YVS9X@8FR%e+c&763###5.
-AUTHORS: Aritra Sen & Judhajit Banerjee.
+AUTHORS: Aritra Sen.
